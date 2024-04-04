@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/goldlocks
+goldlocks.so
+goldlocks.dylib
+goldlocks.dll
+goldlocks.a
+goldlocks.lib
+goldlocks-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

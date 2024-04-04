@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Justa"
+	],
+	"copyright": "Copyright © 2024, Justa",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "goldlocks"
+}
